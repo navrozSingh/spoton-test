@@ -61,7 +61,6 @@ private extension CryptoListViewController {
         searchController.searchBar.searchTextField.textColor = .white
         navigationItem.searchController = searchController
         definesPresentationContext = true
-        
     }
     
     func bindViewModal() {
