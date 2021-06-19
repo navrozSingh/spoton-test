@@ -1,6 +1,6 @@
-# How I approched the assignment
+# How I approached the assignment
 - [x] Used swift package manager 
-- [x] Followed MVVM design patter 
+- [x] Followed MVVM design pattern 
 - [x] Used combine for binding view modal
 - [x] created a small networking layer 
 - [x] followed Protocol Oriented Programming for networking layer for mocking 

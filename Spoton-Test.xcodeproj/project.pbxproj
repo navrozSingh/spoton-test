@@ -94,6 +94,7 @@
 			isa = PBXGroup;
 			children = (
 				03CB9220267DDEC00045404B /* Spoton-Test */,
+				03CB928D267E6BC50045404B /* readme.md */,
 				03CB9237267DDEC40045404B /* Spoton-TestTests */,
 				03CB9242267DDEC40045404B /* Spoton-TestUITests */,
 				03CB921F267DDEC00045404B /* Products */,
@@ -121,7 +122,6 @@
 				03CB922A267DDEC40045404B /* Assets.xcassets */,
 				03CB922C267DDEC40045404B /* LaunchScreen.storyboard */,
 				03CB922F267DDEC40045404B /* Info.plist */,
-				03CB928D267E6BC50045404B /* readme.md */,
 			);
 			path = "Spoton-Test";
 			sourceTree = "<group>";
